@@ -67,7 +67,7 @@ collections:
   articles:
     output: true
 
-#
+
 #defaults:
 #  - scope:
 #      path: ""
@@ -76,4 +76,3 @@ collections:
 #      layout: post
 
 markdown: kramdown
-
