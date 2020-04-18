@@ -1,1 +1,1 @@
-Please see the live site [here](https://blog.succinct.co.za/).
+Please see the live site [here](https://www.succinct.co.za/).
