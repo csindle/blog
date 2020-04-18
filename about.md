@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "About me"
+title: "About"
 permalink: /about/
 ---
 
@@ -11,7 +11,7 @@ I like to keep my identity small, but do enjoy being a:
 * Engineer
 * Co-Founder
 * Kayaker
-* Chef (haha)
+* Baker (haha)
 * Hiker
 * and ~~Maker,~~ ~~Hacker,~~ tinkerer.
 

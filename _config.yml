@@ -28,6 +28,8 @@ url: "https://blog.succinct.co.za"  # the base hostname & protocol for your site
 github_username:  csindle
 linkedin_username: sindle
 
+google_analytics: UA-149593504-4
+
 # Build settings
 # https://pages.github.com/themes/
 theme:
