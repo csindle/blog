@@ -22,13 +22,15 @@ title: Home
 author: Colin Sindle
 email: colin@succinct.co.za
 description: >- # this means to ignore newlines until "baseurl:"
-  Apex website
+  Colin's Blog
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.succinct.co.za"  # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  csindle
 linkedin_username: sindle
 
 google_analytics: UA-149593504-4
+
+permalink: /:title/
 
 # Build settings
 # https://pages.github.com/themes/
