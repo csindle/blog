@@ -5,12 +5,10 @@
 layout: home
 ---
 
-<h2>Articles</h2>
-
 <div class="row">
 
   <div class="column">
-    {% for article in site.articles %}
+    {% for article in site.a %}
     <p>
       <a class="post-link" href="{{ article.url | prepend: site.baseurl }}">
       {{ article.title }}

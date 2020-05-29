@@ -68,7 +68,8 @@ exclude:
 #   - vendor/ruby/
 
 collections:
-  articles:
+  a:
+    # articles
     output: true
 
 
